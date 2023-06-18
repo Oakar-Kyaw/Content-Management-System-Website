@@ -1,6 +1,16 @@
 # Content-Management-System-Website
 
 A min content management system website is built using HTML,CSS,Javascript,Bootstrap,Jquery,PHP,MySQL.
+Frontend of the system used HTML, CSS, JavaScript, Bootstrap, and jQuery, and backend used
+PHP and MySQL
+The user can search any items according to categories such as shirts for the 'Shirt' Category etc.
+Have to sign up/login first to buy the items.
+Used a point system to buy the item.
+In the backend, saved users' sign-up information, users' orders, users' favorites, users saved
+items, items' information, and categories information in MySQL database.
+The admin account can manage items' information in the admin panel dashboard.
+Learn how to interconnect frontend and backend, manage MySQL database, and password
+encryption using PHP from this project
 
 The project is at [https://oakarkyaw123contentmanagement.000webhostapp.com](https://oakarkyaw123contentmanagement.000webhostapp.com/index.php) live.
 
